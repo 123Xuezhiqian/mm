@@ -1,2 +1,1 @@
-FROM   docker.io/flannel/flannel:v0.25.6
-
+FROM   rook/ceph:v1.8.8
