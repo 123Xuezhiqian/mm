@@ -1,1 +1,1 @@
-FROM nginx:latest
+FROM openjdk:17-jre-slim
