@@ -1,1 +1,1 @@
-FROM rabbitmq
+FROM mysql5.7
