@@ -1,1 +1,1 @@
-FROM filebeat:7.10.2
+FROM filebeat:7.17
